@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CrudProject-Mysql/static/css/main.cf8cb218.css",
+    "main.js": "/CrudProject-Mysql/static/js/main.b90370a3.js",
+    "index.html": "/CrudProject-Mysql/index.html",
+    "main.cf8cb218.css.map": "/CrudProject-Mysql/static/css/main.cf8cb218.css.map",
+    "main.b90370a3.js.map": "/CrudProject-Mysql/static/js/main.b90370a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf8cb218.css",
+    "static/js/main.b90370a3.js"
+  ]
+}
